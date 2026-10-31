@@ -14,5 +14,7 @@ Backend/chroma_db/
 # IDE
 .vscode/
 
+
+
 # System files
 .DS_Store
