@@ -5,8 +5,16 @@ langchain-chroma
 langchain-huggingface
 chromadb
 sentence-transformers
-pypdf
-python-docx
 unstructured
 python-dotenv
 langchain-text-splitters
+
+
+# Document extraction
+pypdf
+python-docx
+docx2txt
+pandas
+openpyxl
+python-pptx
+beautifulsoup4
