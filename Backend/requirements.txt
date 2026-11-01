@@ -18,3 +18,11 @@ pandas
 openpyxl
 python-pptx
 beautifulsoup4
+
+
+huggingface_hub
+langchain-huggingface
+sentence-transformers
+
+langchain-chroma
+ chromadb
